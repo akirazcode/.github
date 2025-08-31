@@ -2,7 +2,7 @@
 I'm Gustavo Akira, founder of the Brazilian media platform Forus and the app builder Apptime. We are looking for partners and partnerships, join us!
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; align-items: center; margin: 1rem;">
-  <a href="https://appti.me" target="_blank"><img height="120em" src="https://apptime.com.br/images/website-preview.jpg" target="_blank"></a>
+  <a href="https://apptime.ai" target="_blank"><img height="120em" src="https://apptime.ai/images/website-preview.jpg" target="_blank"></a>
   <a href="https://forus.app" target="_blank"><img height="120em" src="https://forus.app/images/website-preview.jpg" target="_blank"></a>
 </div>
 
