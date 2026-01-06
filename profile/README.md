@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Gustavo Akira, founder of the Brazilian media platform Forus App and the app builder Apptime AI.
+I'm Gustavo Akira, founder of the app builder Apptime AI and media platform Forus App.
 
 Graduated in Mechatronics Engineering, Robotics and Control and Automation.
 
