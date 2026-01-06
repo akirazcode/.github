@@ -15,5 +15,3 @@ We are looking for partners and partnerships, join us!
   <a href="https://apptime.ai" target="_blank"><img height="120em" src="https://apptime.ai/og-image.webp" target="_blank"></a>
   <a href="https://forus.app" target="_blank"><img height="120em" src="https://forus.app/images/website-preview.jpg" target="_blank"></a>
 </div>
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/apptime)
